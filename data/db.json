@@ -1,0 +1,61 @@
+{
+  "Kaos": [
+    {
+      "id" : 1,
+      "name": "Kaos Hijau Polos",
+      "image": "https://source.unsplash.com/xPJYL0l5Ii8/230x230",
+      "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, beatae. Pariatur ducimus aliquid tenetur omnis deleniti quam quisquam, quidem quaerat nulla, at cupiditate, provident officiis obcaecati enim aut deserunt. Odio atque, pariatur eveniet ullam aperiam consectetur, ipsa sed eius quo culpa adipisci explicabo tempora. Impedit laborum nam libero voluptatibus minus, eius est error repellendus cum obcaecati ab recusandae dolores sequi dolorem atque praesentium sit. Corporis maxime voluptas pariatur ipsa facere magni eius ipsum consequuntur veniam quibusdam perferendis fuga ullam ea, recusandae culpa minus reiciendis alias porro repudiandae vero debitis praesentium. Eius magni accusamus sit, ea nemo omnis deleniti qui veniam.",
+      "harga": "Rp.50.000.00-,"
+    },
+    {
+      "id" : 2,
+      "name": "Kaos Hitam",
+      "image": "https://source.unsplash.com/FoF0w-d6Z74/230x230",
+      "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, beatae. Pariatur ducimus aliquid tenetur omnis deleniti quam quisquam, quidem quaerat nulla, at cupiditate, provident officiis obcaecati enim aut deserunt. Odio atque, pariatur eveniet ullam aperiam consectetur, ipsa sed eius quo culpa adipisci explicabo tempora. Impedit laborum nam libero voluptatibus minus, eius est error repellendus cum obcaecati ab recusandae dolores sequi dolorem atque praesentium sit. Corporis maxime voluptas pariatur ipsa facere magni eius ipsum consequuntur veniam quibusdam perferendis fuga ullam ea, recusandae culpa minus reiciendis alias porro repudiandae vero debitis praesentium. Eius magni accusamus sit, ea nemo omnis deleniti qui veniam.",
+      "harga": "Rp.50.000.00-,"
+    },
+    {
+      "id" : 3,
+      "name": "Kaos Pantai Putih",
+      "image": "https://source.unsplash.com/9ShY-Tq70Mc/230x230",
+      "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, beatae. Pariatur ducimus aliquid tenetur omnis deleniti quam quisquam, quidem quaerat nulla, at cupiditate, provident officiis obcaecati enim aut deserunt. Odio atque, pariatur eveniet ullam aperiam consectetur, ipsa sed eius quo culpa adipisci explicabo tempora. Impedit laborum nam libero voluptatibus minus, eius est error repellendus cum obcaecati ab recusandae dolores sequi dolorem atque praesentium sit. Corporis maxime voluptas pariatur ipsa facere magni eius ipsum consequuntur veniam quibusdam perferendis fuga ullam ea, recusandae culpa minus reiciendis alias porro repudiandae vero debitis praesentium. Eius magni accusamus sit, ea nemo omnis deleniti qui veniam.",
+      "harga": "Rp.50.000.00-,"
+    },
+    {
+      "id" : 4,
+      "name": "Kaos Biru Muda",
+      "image": "https://source.unsplash.com/AqLIkOzWDAk/230x230",
+      "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, beatae. Pariatur ducimus aliquid tenetur omnis deleniti quam quisquam, quidem quaerat nulla, at cupiditate, provident officiis obcaecati enim aut deserunt. Odio atque, pariatur eveniet ullam aperiam consectetur, ipsa sed eius quo culpa adipisci explicabo tempora. Impedit laborum nam libero voluptatibus minus, eius est error repellendus cum obcaecati ab recusandae dolores sequi dolorem atque praesentium sit. Corporis maxime voluptas pariatur ipsa facere magni eius ipsum consequuntur veniam quibusdam perferendis fuga ullam ea, recusandae culpa minus reiciendis alias porro repudiandae vero debitis praesentium. Eius magni accusamus sit, ea nemo omnis deleniti qui veniam.",
+      "harga": "Rp.50.000.00-,"
+    },
+    {
+      "id" : 5,
+      "name": "Kaos Merah",
+      "image": "https://source.unsplash.com/QarKZGj0mzk/230x230",
+      "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, beatae. Pariatur ducimus aliquid tenetur omnis deleniti quam quisquam, quidem quaerat nulla, at cupiditate, provident officiis obcaecati enim aut deserunt. Odio atque, pariatur eveniet ullam aperiam consectetur, ipsa sed eius quo culpa adipisci explicabo tempora. Impedit laborum nam libero voluptatibus minus, eius est error repellendus cum obcaecati ab recusandae dolores sequi dolorem atque praesentium sit. Corporis maxime voluptas pariatur ipsa facere magni eius ipsum consequuntur veniam quibusdam perferendis fuga ullam ea, recusandae culpa minus reiciendis alias porro repudiandae vero debitis praesentium. Eius magni accusamus sit, ea nemo omnis deleniti qui veniam.",
+      "harga": "Rp.50.000.00-,"
+    },
+    {
+      "id" : 6,
+      "name": "Kaos Merah Hitam",
+      "image": "https://source.unsplash.com/9PVUNBgqVRo/230x230",
+      "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, beatae. Pariatur ducimus aliquid tenetur omnis deleniti quam quisquam, quidem quaerat nulla, at cupiditate, provident officiis obcaecati enim aut deserunt. Odio atque, pariatur eveniet ullam aperiam consectetur, ipsa sed eius quo culpa adipisci explicabo tempora. Impedit laborum nam libero voluptatibus minus, eius est error repellendus cum obcaecati ab recusandae dolores sequi dolorem atque praesentium sit. Corporis maxime voluptas pariatur ipsa facere magni eius ipsum consequuntur veniam quibusdam perferendis fuga ullam ea, recusandae culpa minus reiciendis alias porro repudiandae vero debitis praesentium. Eius magni accusamus sit, ea nemo omnis deleniti qui veniam.",
+      "harga": "Rp.50.000.00-,"
+    },
+    {
+      "id" : 7,
+      "name": "Kaos Putih Polos",
+      "image": "https://source.unsplash.com/WWesmHEgXDs/230x230",
+      "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, beatae. Pariatur ducimus aliquid tenetur omnis deleniti quam quisquam, quidem quaerat nulla, at cupiditate, provident officiis obcaecati enim aut deserunt. Odio atque, pariatur eveniet ullam aperiam consectetur, ipsa sed eius quo culpa adipisci explicabo tempora. Impedit laborum nam libero voluptatibus minus, eius est error repellendus cum obcaecati ab recusandae dolores sequi dolorem atque praesentium sit. Corporis maxime voluptas pariatur ipsa facere magni eius ipsum consequuntur veniam quibusdam perferendis fuga ullam ea, recusandae culpa minus reiciendis alias porro repudiandae vero debitis praesentium. Eius magni accusamus sit, ea nemo omnis deleniti qui veniam.",
+      "harga": "Rp.50.000.00-,"
+    },
+    {
+      "id" : 8,
+      "name": "Kaos Merah",
+      "image": "https://source.unsplash.com/Rr1Vf1W2nl0/230x230",
+      "des": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, beatae. Pariatur ducimus aliquid tenetur omnis deleniti quam quisquam, quidem quaerat nulla, at cupiditate, provident officiis obcaecati enim aut deserunt. Odio atque, pariatur eveniet ullam aperiam consectetur, ipsa sed eius quo culpa adipisci explicabo tempora. Impedit laborum nam libero voluptatibus minus, eius est error repellendus cum obcaecati ab recusandae dolores sequi dolorem atque praesentium sit. Corporis maxime voluptas pariatur ipsa facere magni eius ipsum consequuntur veniam quibusdam perferendis fuga ullam ea, recusandae culpa minus reiciendis alias porro repudiandae vero debitis praesentium. Eius magni accusamus sit, ea nemo omnis deleniti qui veniam.",
+      "harga": "Rp.50.000.00-,"
+    }
+
+  ]
+}
